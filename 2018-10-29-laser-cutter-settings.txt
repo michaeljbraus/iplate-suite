@@ -1,0 +1,40 @@
+UNIVERSAL LASER SYSTEMS
+
+Laser Cutter Settings
+
+-------------------
+Delrin 1/8"
+Power: 100%
+Speed: 2.5%
+PPI: 250
+Z-Axis: 3.20mm
+TWICE
+
+You can elevate the speed on the second cut to 3.0%. 
+
+For 17 plates from a 12"x24" plate, at 2.5% it takes 77 minutes to run a single time. At 3.0% it takes __ minutes. 
+
+NOTE: There is significant bowing (upward on the ends lengthwise), which is preventing the laser from cutting directly on its last cuts. The laser cutter lens itself has x- and y-axis motors, which are strong enough to "chug" and move the piece around slightly, as well, which adds to the imperfections resulting from the bowing described above. 
+
+SO I RAN IT NOT TWICE BUT THRICE! The laser's really gotten through now, but the shifting of the plate around with bowing and the whole machine's movement is causing problems.  
+
+RECOMMENDATION: Do all the rest of the cuts on no larger than 12"x12" Delrin sheets, or else the central plates won't be perfectly cylindrical with flush edges. 
+
+ALSO cut the bigger plate into the size you wish to cut each Iplate, then put them side-by-side in the laser cutter. There is ample room to do these cuts and space them out. It's a quick grid of vectors, and these cuts could even be done while the bigger plate is still on the table. 
+
+*** ALSO we could try making the plates from 1/16" Delrin instead of the 1/8". Now that we're top-dressing the cells and maybe forming the gel plugs with a base-plate below, we can use a thinner central plate while still using thicker plates above made from any material that is firm and cutable. 
+
+MAYBE we need to speed up the laser cutter and run it many times over the pieces, rather than slowing it down to cut through on only one or two runs? That would mean doing 3-4 runs at 10-15% speed instead of two runs at 2.5-3% speed. This should take the same amount of time either way. 
+
+--------------------
+Silicone 1/32"
+Power: 100%
+Speed: 3.0%
+PPI: 30
+Z-Axis: 1.30mm
+TWICE
+
+For 07 plates from a 12"x12" sheet, at 3.0% it takes 31 minutes to run a single time. 
+
+
+NOTE: There is significant up-bending and bowing from the heating surface and a lot of charring, which needs to be cleared away between each run. As it cools, the silicone returns to its original shape and position, roughly. This material is best kept intact while doing multiple runs on the same sheet, unlike the Delrin. 
